@@ -6,18 +6,18 @@
 
 ## CFG
 -  Terminals (20) 
-1.   vtype for the types of variables and functions 
-2.   num for signed integers 
-3.   float for floating-point numbers 
-4.   literal for literal strings 
-5.   id for the identifiers of variables and functions 
-6.   if, else, while, for and return for if, else, while, for and return statements respectively 
-7.   addsub for + and - arithmetic operators 
-8.   multdiv for * and / arithmetic operators 
-9.   assign for assignment operators 
-10. comp for comparison operators 
-11. semi and comma for semicolons and commas respectively 
-12. lparen, rparen, lbrace, and rbrace for (, ), {, and } respectively
+  1.   vtype for the types of variables and functions 
+  2.   num for signed integers 
+  3.   float for floating-point numbers 
+  4.   literal for literal strings 
+  5.   id for the identifiers of variables and functions 
+  6.   if, else, while, for and return for if, else, while, for and return statements respectively 
+  7.   addsub for + and - arithmetic operators 
+  8.   multdiv for * and / arithmetic operators 
+  9.   assign for assignment operators 
+  10. comp for comparison operators 
+  11. semi and comma for semicolons and commas respectively 
+  12. lparen, rparen, lbrace, and rbrace for (, ), {, and } respectively
 
 
 - Non-terminals (14) 
