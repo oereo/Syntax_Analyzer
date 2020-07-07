@@ -1,0 +1,20 @@
+- Input: int main(char arg) {
+- Output: <vtype>, <id, main>, <lparen, (>, <vtype>, <id, arg>, <rparen, )>, <lbrace, {>
+
+- Input:   int a;
+- Output: <vtype>, <id, a>, <semi, ;>
+
+- Input:   print("souce codes include zero");
+- Output: <id, print>, <lparen, (>, <literal, "souce codes include zero">, <rparen, )>, <semi, ;>
+
+- Input:   for ( ; x<=10; ) { total = total * x; x = x - 1; }
+- Output: <for>, <lparen, (>, <semi, ;>, <id, x>, <comp, <=>, <num, 10>, <semi, ;>, <rparen, )>, <lbrace, {>, <id, total>, <assign, =>, <id, total>, <multdiv, *>, <id, x>, <semi, ;>, <id, x>, <assign, =>, <id, x>, <addsub, ->, <num, 1>, <semi, ;>, <rbrace, }>
+
+- Input:   if(x<1) return 0.5;
+- Output: <if>, <lparen, (>, <id, x>, <comp, <>, <num, 1>, <rparen, )>, <return>, <float, 0.5>, <semi, ;>
+
+- Input: }
+- Output: <rbrace, }>
+
+
+
