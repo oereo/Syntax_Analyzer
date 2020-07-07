@@ -1,5 +1,10 @@
 # Syntax Analyzer
 
+## TEAM
+- CAU University 
+- Healim Hong, Sehoon In
+
+
 ## Goal
  - The goal of the this term-project is to implement a bottom-up syntax analyzer (a.k.a., parser) 
  - Implement the syntax analyzer with the following context free grammar G(CFG)
